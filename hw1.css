@@ -10,7 +10,7 @@ h1 {
 }
 
 header {
-    background-image: url("../flywheel.jpg");
+    background-image: url("http://intro-webdesign.com/CSS/assignment-2/images/flywheel.jpg");
     background-repeat: no-repeat;
     background-position-y: top;
     background-position-x: center;
